@@ -76,18 +76,31 @@ All results are interpreted as **screening-level indicators**, not measures of e
 ## Repository Contents
 
 ├── report/
+
 │ └── Kayaderasseras_Wetland_Screening_Report.pdf
+
 ├── maps/
+
 │ ├── Wetlands_LandCover_100ft.png
+
 │ ├── Wetlands_LandCover_300ft.png
+
 │ ├── Wetlands_Roads_100ft.png
+
 │ └── Wetlands_Roads_300ft.png
+
 ├── gis_project/
+
 │ ├── Kayaderasseras_Wetlands.aprx
+
 │ └── README_Project_Setup.txt
+
 ├── data/
+
 │ └── (derived datasets only, zipped)
+
 └── methods/
+
 └── Workflow_Steps.md
 
 
