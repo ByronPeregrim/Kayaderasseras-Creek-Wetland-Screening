@@ -6,18 +6,19 @@ Project file:
 Software:
 - Created in ArcGIS Pro 3.6
 
-Data paths:
-- Data connections may need to be repaired when opening the project.
-- Derived datasets are stored in the /data folder (zipped).
-- Raw statewide datasets are not included.
+Purpose:
+- This project file is provided for reference and transparency.
+- It documents map layouts, layer organization, symbology, and analytical structure.
+- All final results are documented in the project report and exported maps.
 
-Layer organization:
-- Wetlands and buffers are grouped by analysis phase.
-- Land cover and roads layers are symbolized for screening-level interpretation.
+Data paths:
+- Data connections may need to be repaired when opening this project.
+- Raw statewide datasets are not included.
+- Derived datasets used for analysis are provided separately in the /data folder (zipped).
 
 Coordinate system:
-- All analysis layers are projected to NAD 1983 UTM Zone 18N.
+- Analysis layers are projected to NAD 1983 UTM Zone 18N.
 
 Notes:
-- This project file is provided for reference only.
-- All final results are documented in the PDF report.
+- This project is intended for review, not for direct re-execution of the analysis.
+- Final figures and summary tables should be referenced from the exported outputs rather than recreated from this file.
