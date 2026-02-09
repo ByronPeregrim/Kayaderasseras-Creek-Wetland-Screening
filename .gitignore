@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ArcGIS
+*.lock
+*.tmp
+*.cache
+*.gdb-lock
+*.sr.lock
+Thumbs.db
+.DS_Store
+
