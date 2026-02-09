@@ -75,3 +75,46 @@ All results are interpreted as **screening-level indicators**, not measures of e
 
 ## Repository Contents
 
+├── report/
+│ └── Kayaderasseras_Wetland_Screening_Report.pdf
+├── maps/
+│ ├── Wetlands_LandCover_100ft.png
+│ ├── Wetlands_LandCover_300ft.png
+│ ├── Wetlands_Roads_100ft.png
+│ └── Wetlands_Roads_300ft.png
+├── gis_project/
+│ ├── Kayaderasseras_Wetlands.aprx
+│ └── README_Project_Setup.txt
+├── data/
+│ └── (derived datasets only, zipped)
+└── methods/
+└── Workflow_Steps.md
+
+
+**Note:** Raw statewide datasets are not included. Only derived analysis products are provided.
+
+---
+
+## Software
+
+- **ArcGIS Pro 3.6**
+- Python (for field calculations within ArcGIS Pro)
+
+---
+
+## Intended Use
+
+This repository is intended for:
+- GIS and environmental science portfolios
+- Demonstration of applied spatial analysis workflows
+- Review by hiring managers and technical staff
+
+It is **not intended for regulatory decision-making or site-specific assessment**.
+
+---
+
+## Author
+
+Prepared by **Byron Peregrim**  
+Bachelor’s degrees in Biology and Computer Science  
+Environmental GIS portfolio project
