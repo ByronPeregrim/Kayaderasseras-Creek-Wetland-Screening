@@ -91,13 +91,13 @@ All results are interpreted as **screening-level indicators**, not measures of e
 
 │ └── pdf_exports/
 
-│       └── Map1_StudyArea_Wetlands.pdf
+│ └──└── Map1_StudyArea_Wetlands.pdf
 
-│       └── Map3_LandCover_Buffer100ft.pdf
+│ └──└── Map3_LandCover_Buffer100ft.pdf
 
-│       └── Map3_LandCover_Buffer300ft.pdf
+│ └──└── Map3_LandCover_Buffer300ft.pdf
 
-│       └── Map4_Roads_WetlandProximity.pdf
+│ └──└── Map4_Roads_WetlandProximity.pdf
 
 ├── gis_project/
 
