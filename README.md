@@ -76,31 +76,26 @@ All results are interpreted as **screening-level indicators**, not measures of e
 ## Repository Contents
 
 ├── report/
-
 │ └── Kayaderasseras_Wetland_Screening_Report.pdf
-
 ├── maps/
-
-│ ├── Wetlands_LandCover_100ft.png
-
-│ ├── Wetlands_LandCover_300ft.png
-
-│ ├── Wetlands_Roads_100ft.png
-
-│ └── Wetlands_Roads_300ft.png
-
+│ ├── Map1_StudyArea_Wetlands.png
+│ ├── Map3_LandCover_Buffer100ft.png
+│ ├── Map3_LandCover_Buffer300ft.png
+│ └── Map4_Roads_WetlandProximity.png
+│ └── pdf_exports/
+│     └── Map1_StudyArea_Wetlands.pdf
+│     └── Map3_LandCover_Buffer100ft.pdf
+│     └── Map3_LandCover_Buffer300ft.pdf
+│     └── Map4_Roads_WetlandProximity.pdf
 ├── gis_project/
-
 │ ├── Kayaderasseras_Wetlands.aprx
-
 │ └── README_Project_Setup.txt
-
 ├── data/
-
-│ └── (derived datasets only, zipped)
-
+│ └── README.Data.md
+│ └── Wetland_Buffer_Analysis_Final.gdb.zip
+│ └── developed_percent_by_wetland_100ft.csv
+│ └── developed_percent_by_wetland_300ft.csv
 └── methods/
-
 │ └── Workflow_Steps.md
 
 
